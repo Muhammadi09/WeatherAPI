@@ -1,0 +1,50 @@
+html,body{
+	color: white;
+	background:url('images/background.jpg');
+    position: relative;
+}
+
+
+.one{
+	
+	position: relative;
+	margin-top: 200px;
+}
+h1{
+	font-family: 'Work Sans', sans-serif !important;
+	margin-top: 40px;
+	color: white !important;
+	font-size: 100px !important;
+}
+.two{
+	padding-top: 10px;
+	padding-bottom: 10px;
+	text-align: center;
+}
+#search-box{
+	font-family: 'PT Sans', sans-serif;
+	font-weight: 200;
+	border-radius: 5px;
+}
+
+#btn{
+	font-family: 'PT Sans', sans-serif;
+	border-color: #31a5c6;
+	border-radius: 5px;
+	background-color: #31a5c6 !important;
+	color: white;
+	padding-bottom: 3px;
+}
+
+.three{
+	width: 35em !important;
+	position: relative;
+	margin-top: 200px;
+	height: 300px !important;
+	border: solid 1px white;
+	border-radius: 10px;
+}
+.city{
+	text-align: center;
+	color: white;
+}

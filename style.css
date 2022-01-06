@@ -1,0 +1,84 @@
+html,body{
+	color: white;
+	background:url('images/background.jpg');
+    position: relative;
+}
+
+
+.one{
+	position: relative;
+	margin-top: 200px;
+}
+h1{
+	font-family: 'Work Sans', sans-serif !important;
+	margin-top: 40px;
+	color: white !important;
+	font-size: 100px !important;
+}
+.two{
+	padding-top: 10px;
+	padding-bottom: 10px;
+	text-align: center;
+}
+#search-box{
+	font-family: 'PT Sans', sans-serif;
+	font-weight: 200;
+	border-radius: 5px;
+}
+
+#btn{
+	font-family: 'PT Sans', sans-serif;
+	border-color: #31a5c6;
+	border-radius: 5px;
+	background-color: #31a5c6 !important;
+	color: white;
+	padding-bottom: 3px;
+}
+
+.three{
+	display: none;
+	width: 35em !important;
+	position: relative;
+	margin-top: 20px;
+	height: 330px;
+	border: solid 1px white;
+	border-radius: 10px;
+}
+.city{
+	text-align: center;
+	color: white;
+}
+
+.details{
+	font-family: 'PT Sans', sans-serif;
+	margin-top: 30px;
+	text-align: center;
+}
+#temps{
+	font-size: 24px;
+	font-weight: bold;
+	text-align: center; 
+	background-color: white; 
+	border-radius: 5px;
+}
+#desc{
+	color: white;
+	font-size: 14px;
+	margin-top: 50px !important;
+
+}
+#humidity{
+	font-size: 14px;
+	background-color: white; 
+	border-radius: 5px;
+}
+#pressure{
+	font-size: 14px;
+	background-color: white; 
+	border-radius: 5px;
+}
+#wind{
+	font-size: 14px;
+	background-color: white; 
+	border-radius: 5px;
+}
